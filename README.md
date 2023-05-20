@@ -1,6 +1,6 @@
-# Jose-Soto
+# Jose-Soto Sobre mi
 
-Hace tres años decidí emprender un nuevo rumbo como programador después de más de 17 años de experiencia en el sector Sanitario, ayudando desde otra perspectiva y colaborando en proyectos que puedan hacer la vida más fácil a las personas.
+En 2019 decidí emprender un nuevo rumbo como programador después de más de 17 años de experiencia en el sector Sanitario, ayudando desde otra perspectiva y colaborando en proyectos que puedan hacer la vida más fácil a las personas.
 
 Busco una empresa donde poder aprender, crecer y desarrollarme como desarrollador de software.
 
